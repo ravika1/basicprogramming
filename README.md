@@ -1,0 +1,2 @@
+# basicprogramming
+to learn things 
